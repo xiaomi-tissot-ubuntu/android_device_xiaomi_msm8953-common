@@ -289,7 +289,8 @@ PRODUCT_PACKAGES += \
     init.qcom.bt.sh \
     init.qcom.post_boot.sh \
     move_time_data.sh \
-    move_wifi_data.sh
+    move_wifi_data.sh \
+    init_wlan_bt.sh
 
 # RenderScript HAL
 PRODUCT_PACKAGES += \
